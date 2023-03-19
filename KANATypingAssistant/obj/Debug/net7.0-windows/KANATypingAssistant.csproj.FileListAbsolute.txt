@@ -1,0 +1,17 @@
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\obj\Debug\net7.0-windows\KANATypingAssistant.csproj.AssemblyReference.cache
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\obj\Debug\net7.0-windows\KANATypingAssistant.csproj.GenerateResource.cache
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\obj\Debug\net7.0-windows\KANATypingAssistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\obj\Debug\net7.0-windows\KANATypingAssistant.AssemblyInfoInputs.cache
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\obj\Debug\net7.0-windows\KANATypingAssistant.AssemblyInfo.cs
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\obj\Debug\net7.0-windows\KANATypingAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\bin\Debug\net7.0-windows\KANATypingAssistant.exe
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\bin\Debug\net7.0-windows\KANATypingAssistant.deps.json
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\bin\Debug\net7.0-windows\KANATypingAssistant.runtimeconfig.json
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\bin\Debug\net7.0-windows\KANATypingAssistant.dll
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\bin\Debug\net7.0-windows\KANATypingAssistant.pdb
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\obj\Debug\net7.0-windows\KANATypingAssistant.MainForm.resources
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\obj\Debug\net7.0-windows\KANATypingAssistant.dll
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\obj\Debug\net7.0-windows\refint\KANATypingAssistant.dll
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\obj\Debug\net7.0-windows\KANATypingAssistant.pdb
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\obj\Debug\net7.0-windows\KANATypingAssistant.genruntimeconfig.cache
+C:\Users\Anno\source\repos\KANATypingAssistant\KANATypingAssistant\obj\Debug\net7.0-windows\ref\KANATypingAssistant.dll
