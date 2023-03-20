@@ -140,9 +140,9 @@ namespace KANATypingAssistant
         public static IntPtr HookCallback(int nCode, IntPtr wParam, IntPtr lParam)
         {
             KBDLLHOOKSTRUCT keyInfo = (KBDLLHOOKSTRUCT)Marshal.PtrToStructure(lParam, typeof(KBDLLHOOKSTRUCT));
-            if (nCode >= 0 && (wParam == 256 || wParam == 257))
+            if (nCode >= 0 && (wParam == 256))
             {
-                if (keyInfo.vkCode == 0xF3)
+                if (keyInfo.vkCode == 0x1c)
                 {
                     MainForm.Instance.toggle();
                     Debug.WriteLine("Enabled: " + enabled);
